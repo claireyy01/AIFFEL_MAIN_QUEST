@@ -1,5 +1,7 @@
 <aside>
-🔑 **PRT(Peer Review Template)**
+🔑 **PRT(Peer Review Template)**  
+코더 : 김양희  
+리뷰어 :     
 
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
