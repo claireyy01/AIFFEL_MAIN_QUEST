@@ -11,13 +11,19 @@
         - 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
 
 <img width="508" alt="스크린샷 2024-01-29 오후 6 08 . 8" src="https://github.com/thetjswo/AIFFEL_MAIN_QUEST_kyh/assets/74177040/dd92e4fa-fdd0-4b93-83c4-22c513a22c37">  
+
 [리뷰] 명시된 구조에 맞게 모델이 설계되었다.  
 
+
 <img width="178" alt="스크린샷 2024-01-29 오후 6 08 51" src="https://github.com/thetjswo/AIFFEL_MAIN_QUEST_kyh/assets/74177040/0b7648ed-853f-4ff8-80c0-7681e6fc99e3">  
+
 [리뷰] 제시된 데이터에 대한 라벨링 수정이 이루어졌다.  
 
+
 <img width="634" alt="스크린샷 2024-01-29 오후 6 09 09" src="https://github.com/thetjswo/AIFFEL_MAIN_QUEST_kyh/assets/74177040/2dbc1f29-4c4f-460d-a177-74c0230c246c">  
+
 [리뷰] KerasTuner로 하이퍼파라미터 튜닝을 진행하였다.  
+
 
 ---
     
@@ -29,7 +35,9 @@
         - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
 
 <img width="934" alt="스크린샷 2024-01-29 오후 6 09 30" src="https://github.com/thetjswo/AIFFEL_MAIN_QUEST_kyh/assets/74177040/d4af3385-da1e-4e2c-acaf-e7676143b938">  
+
 [리뷰] 학습할 때 가장 까다로웠던 부분에 대한 동작 원리를 잘 설명하였다.  
+
 
 ---
         
@@ -41,7 +49,9 @@
         - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
      
 <img width="631" alt="스크린샷 2024-01-29 오후 6 09 58" src="https://github.com/thetjswo/AIFFEL_MAIN_QUEST_kyh/assets/74177040/738cd07f-5d68-40e5-815b-90345cd9aa5b">  
+
 [리뷰] 오류 발생에 대한 원인을 즉각적으로 조치하였다.  
+
 
 ---
         
@@ -53,7 +63,9 @@
         모델 아키텍쳐에 대한 이해를 돕고 있는지 확인
 
 <img width="576" alt="스크린샷 2024-01-29 오후 6 10 13" src="https://github.com/thetjswo/AIFFEL_MAIN_QUEST_kyh/assets/74177040/ec6187bd-4a29-442c-b6ce-1c5e62f1270d">  
+
 [리뷰] 프로젝트를 진행하면서 느꼈던 점을 회고로 작성하였다.  
+
 
 ---
 
@@ -63,7 +75,9 @@
         - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
      
 <img width="803" alt="스크린샷 2024-01-29 오후 6 10 58" src="https://github.com/thetjswo/AIFFEL_MAIN_QUEST_kyh/assets/74177040/7b409f80-be2a-4911-8ee2-cad2b08deba8">  
+
 [리뷰] 여러 데이터를 확인해야 하는 부분에서 반복문을 사용함으로써 효율성을 증가시켰다.  
+
 
 
 </aside>
