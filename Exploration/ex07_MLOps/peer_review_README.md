@@ -10,7 +10,7 @@
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
 
-<img width="508" alt="스크린샷 2024-01-29 오후 6 08 . 8" src="https://github.com/thetjswo/AIFFEL_MAIN_QUEST_kyh/assets/74177040/dd92e4fa-fdd0-4b93-83c4-22c513a22c37"> 
+<img width="508" alt="스크린샷 2024-01-29 오후 6 08 . 8" src="https://github.com/thetjswo/AIFFEL_MAIN_QUEST_kyh/assets/74177040/dd92e4fa-fdd0-4b93-83c4-22c513a22c37">  
 [리뷰] 명시된 구조에 맞게 모델이 설계되었다.  
 
 <img width="178" alt="스크린샷 2024-01-29 오후 6 08 51" src="https://github.com/thetjswo/AIFFEL_MAIN_QUEST_kyh/assets/74177040/0b7648ed-853f-4ff8-80c0-7681e6fc99e3">  
