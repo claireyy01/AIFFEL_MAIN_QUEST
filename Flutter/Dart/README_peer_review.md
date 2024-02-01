@@ -1,6 +1,7 @@
 <aside>
-🔑 **PRT(Peer Review Template)**
-- 코더 : 김양희, 강영현, 최강훈  
+🔑 **PRT(Peer Review Template)**  
+    
+- 코더 : 김양희, 강영현, 최강훈    
 - 리뷰어 :   
 
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
