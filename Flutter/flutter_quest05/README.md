@@ -4,6 +4,8 @@
 
 ## 화면 구성
 <img width="723" alt="image" src="https://github.com/claireyy01/AIFFEL_MAIN_QUEST/assets/145723730/2950435c-7551-485d-8b3c-169e3d0f7776">
+
+
 - 원했던 구성
   - 자동차 번호판이 있는 사진을 촬영 또는 업로드하면 번호판 데이터를 텍스트로 출력하는 앱
 
